@@ -1,0 +1,5 @@
+server:
+  port: 2520
+spring:
+  application:
+    name: grpc-server

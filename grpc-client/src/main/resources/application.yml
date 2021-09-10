@@ -1,0 +1,5 @@
+server:
+  port: 2510
+spring:
+  application:
+    name: grpc-client
